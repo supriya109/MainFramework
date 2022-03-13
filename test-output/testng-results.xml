@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-03-09T21:52:59 IST" name="Default suite" finished-at="2022-03-09T21:53:24 IST" duration-ms="24898">
+    <groups>
+    </groups>
+    <test started-at="2022-03-09T21:52:59 IST" name="Default test" finished-at="2022-03-09T21:53:24 IST" duration-ms="24898">
+      <class name="com.practice.HandleCalenderPopUp">
+        <test-method signature="calender()[pri:0, instance:com.practice.HandleCalenderPopUp@2accdbb5]" started-at="2022-03-09T21:52:59 IST" name="calender" finished-at="2022-03-09T21:53:24 IST" duration-ms="24732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- calender -->
+      </class> <!-- com.practice.HandleCalenderPopUp -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
